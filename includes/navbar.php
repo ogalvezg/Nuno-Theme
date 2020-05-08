@@ -12,25 +12,25 @@
 							<a class="nav-link" href="index.php">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#features">Features</a>
+							<a class="nav-link" href="features.php">Features</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#portfolio">Portfolio</a>
+							<a class="nav-link" href="portfolio.php">Portfolio</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#pricing">Pricing</a>
+							<a class="nav-link" href="pricing.php">Pricing</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#team">Team</a>
+							<a class="nav-link" href="team.php">Team</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#skills">Skills</a>
+							<a class="nav-link" href="skills.php">Skills</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#clients">Clients</a>
+							<a class="nav-link" href="clients.php">Clients</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#contact">Contact</a>
+							<a class="nav-link" href="contact.php">Contact</a>
 						</li>
 					</ul>
 				</div>
