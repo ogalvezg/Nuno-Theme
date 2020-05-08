@@ -429,6 +429,13 @@ hr.socket {
   border-top: .2rem solid #666b71;
   width: 100%;
 }
+footer{
+  background-color: #53595f;
+  position: absolute;
+  width: 100%;
+  height: 5vh;
+  display: table;
+}
 #foot{
   margin: auto;
   text-align: center;
